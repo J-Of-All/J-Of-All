@@ -2,4 +2,13 @@
 
 old banner, placeholder until i make a new one
 
+---
+
+currently working on music covers. 
+
+
+
+
+
+
 
