@@ -1,2 +1,5 @@
-<img width="1200" height="480" alt="banne" src="https://github.com/user-attachments/assets/9038c950-55f2-4daf-8dc4-9f92d5b8629f" />
+<img width="2000" height="500" alt="we need" src="https://github.com/user-attachments/assets/57a2add9-0922-4393-a4ef-ec1d76aab346" />
+
+old banner, placeholder until i update with a new one maybe
+
 
